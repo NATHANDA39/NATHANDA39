@@ -14,11 +14,6 @@ I thoroughly enjoy learning software such as Microsoft 365, Microsoft Power BI, 
 - 🤔 I'm looking for assistance with MySQL.
 - 📄 Know about my experiences [tascienceportfol.io/NathanLartey](https://www.datascienceportfol.io/NathanLartey)
 
-<p align="center">
-	<a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
-	<a href="https://twitter.com/nathanlartey"><img src="imgs/twitter.svg" alt="Twitter"></a>
-	<a href="https://github.com/nathanda39><img src="imgs/github.svg" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/nathanlartey"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 
 # 💻 Tech Stack:
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
