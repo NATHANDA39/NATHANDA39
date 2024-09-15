@@ -16,7 +16,5 @@ Skills: Microsoft 365/Power Automate/ Microsoft Power BI/ Adobe Photoshop/ Adobe
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NATHANDA39)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nathan-lartey//)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nATHANDA39)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanda39&show_icons=true&theme=transparent)
 
