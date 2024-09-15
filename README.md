@@ -34,3 +34,4 @@ I thoroughly enjoy learning software such as Microsoft 365, Microsoft Power BI, 
 ---
 [![](https://visitcount.itsvg.in/api?id=NATHANDA39&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
