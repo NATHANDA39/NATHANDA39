@@ -1,8 +1,8 @@
-### Hi there 👋, Hey, I'm Nathan!
+### Hey, I'm Nathan!
 
-#### I am Management Information Systems Officer 
+#### I am an Management Information Systems Officer 
 
-I work as an Management Information Systems Officer in Accra, Ghana, where I analyze, test, troubleshoot, and evaluate existing network systems.
+I work as a Government Official in Accra, Ghana, where I analyze, test, troubleshoot, and evaluate existing network systems.
 
 I really enjoy learning software's Microsoft 365, Microsoft Power BI, SQL and like designing wireframes and artworks for websites and social media ads using tools like Adobe Photoshop and Illustrator.   
 
