@@ -8,7 +8,7 @@ I thoroughly enjoy learning software such as Microsoft 365, Microsoft Power BI, 
 
 ### Fun Facts
 
-- 🔭 I’m currently working on Project soon to be released. 
+- 🔭 I’m currently working on a Project soon to be released. 
 - 🌱 I’m currently learning Microsoft Power BI  
 - 👯 I’m seeking collaboration opportunities on wireframes and interactive dashboards.
 - 🤔 I'm looking for assistance with MySQL.
