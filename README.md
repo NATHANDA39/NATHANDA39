@@ -12,7 +12,7 @@ I thoroughly enjoy learning software such as Microsoft 365, Microsoft Power BI, 
 - 🌱 I’m currently learning Microsoft Power BI  
 - 👯 I’m seeking collaboration opportunities on wireframes and interactive dashboards.
 - 🤔 I'm looking for assistance with MySQL.
-- 📄 Know about my experiences [tascienceportfol.io/NathanLartey](https://www.datascienceportfol.io/NathanLartey)
+
 
 
 # 💻 Tech Stack:
